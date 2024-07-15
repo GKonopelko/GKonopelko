@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://icon-icons.com/icons2/3915/PNG/512/stylelint_logo_icon_249490.png"  title="Stylelint" alt="Stylelint" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="./img/icons/bem.svg" alt="BEM" title="BEM" width="40" height="40">
+<img src="bem.svg" alt="BEM" title="BEM" width="40" height="40">
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
