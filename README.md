@@ -67,13 +67,20 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎓 My Projects
+### 🎡 My Projects
+
+ 🚢 Project | ⛵ Code | 🚣 Description
+:----|:----|:----
+Library |[Library code](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/library) |       [Library description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
+[Custom Audio Player](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/audio-player)     |   [Audio player](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/audio-player/)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)
+[Image gallery](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/image-galery)           |   [Image gallery](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/image-galery/)                    | [Image-gallery](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md)                           
+[Video player](https://github.com/Gkonopelko/js30-1.3-custom-video/tree/gh-pages)             
+[Random game](https://github.com/Gkon            |   [Video player](https://GKonopelko.github.io/js30-1.3-custom-video/)                                    | [Video player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-3.md)
+[Movie-app](https://github.com/Gkonopelko/js30-2.3-movie-app/tree/gh-pages) (work only with VPN)   |   [Movie app](https://GKonopelko.github.io/js30-2.3-movie-app/)                                          | [Movie app](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-6.md)
+Coffee House              |   [Coffee House](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/coffee-house/)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
+Hangman                   |   [Hangman](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/hangman/)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
+Nonograms                 |   [Nonograms](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/nonograms/)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)                                  
 
 
- Projects         |   Deploy                                                | Code repo
-------------------|:--------------------------------------------------------|:-----------------------
-
- <!-- Async Race (server installation required)      | [Deploy](https://  .github.io/async-race/)    | [Repo](https://github.com/    /async-race) -->
- Virtual Keyboard | [Deploy](https://  .github.io/virtual-keyboard/)    | [Repo](https://github.com/  /virtual-keyboard)
    
 
