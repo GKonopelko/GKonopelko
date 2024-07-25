@@ -1,8 +1,7 @@
 
 
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
-Front-end developer <br> currently looking for a job</a> </h1>
-
+<h1 align="center">
+Front-end Developer <br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>currently looking for a job </h1>
 
 <!--
 **GKonopelko/GKonopelko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,25 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m result-oriented and opened to new knowledge
 
 --- -->
-
-### ☎️ Connect with me
-<div id="badges">
- <a href="https://t.me/GrigoriKonopelko" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
- </a>
- <a href="mailto:grigori.konopelko@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
- </a>
- <!--
- <a href="www.linkedin.com/in/yuliya-karuk-1a1a14231/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
- </a>
- -->
-</div>
-
----
-
-### 🛠 Languages and Tools:
+### Languages and Tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -68,11 +49,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎡 My Projects
+### My Projects
 
- 🚢 Project | ⛵ Code | 🚣 Description
+ Project | Code | Description
 :----|:----|:----
-Library |[Library code](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/library) |       [Library description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
+[Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library code](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
 [Custom Audio Player](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/audio-player)     |   [Audio player](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/audio-player/)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)
 [Image gallery](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/image-galery)           |   [Image gallery](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/image-galery/)                    | [Image-gallery](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md)                           
 [Video player](https://github.com/Gkonopelko/js30-1.3-custom-video/tree/gh-pages)             
@@ -80,8 +61,26 @@ Library |[Library code](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tr
 [Movie-app](https://github.com/Gkonopelko/js30-2.3-movie-app/tree/gh-pages) (work only with VPN)   |   [Movie app](https://GKonopelko.github.io/js30-2.3-movie-app/)                                          | [Movie app](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-6.md)
 Coffee House              |   [Coffee House](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/coffee-house/)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 Hangman                   |   [Hangman](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/hangman/)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
-Nonograms                 |   [Nonograms](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/nonograms/)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)                                  
+Nonograms                 |   [Nonograms](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/nonograms/)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)    
 
+---
+
+### Connect with me
+<div id="badges">
+ <a href="https://t.me/GrigoriKonopelko" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+ </a>
+ <a href="mailto:grigori.konopelko@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+ </a>
+ <!--
+ <a href="www.linkedin.com/in/yuliya-karuk-1a1a14231/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+ </a>
+ -->
+</div>
+
+---
 
    
 
