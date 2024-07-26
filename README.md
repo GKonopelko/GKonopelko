@@ -53,15 +53,13 @@ Here are some ideas to get you started:
 
  Project | Code | Description
 :----|:----|:----
-[Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library code](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
-[Custom Audio Player](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/audio-player)     |   [Audio player](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/audio-player/)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)
-[Image gallery](https://github.com/Gkonopelko/RS-School-2023Q2-Stage0/tree/image-galery)           |   [Image gallery](https://GKonopelko.github.io/RS-School-2023Q2-Stage0/image-galery/)                    | [Image-gallery](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md)                           
-[Video player](https://github.com/Gkonopelko/js30-1.3-custom-video/tree/gh-pages)             
-[Random game](https://github.com/Gkon            |   [Video player](https://GKonopelko.github.io/js30-1.3-custom-video/)                                    | [Video player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-3.md)
-[Movie-app](https://github.com/Gkonopelko/js30-2.3-movie-app/tree/gh-pages) (work only with VPN)   |   [Movie app](https://GKonopelko.github.io/js30-2.3-movie-app/)                                          | [Movie app](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-6.md)
-Coffee House              |   [Coffee House](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/coffee-house/)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
-Hangman                   |   [Hangman](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/hangman/)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
-Nonograms                 |   [Nonograms](https://Gkonopelko.github.io/RS-School-2023Q4-Stage1/nonograms/)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)    
+[Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
+[Memo-game](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/memo-game/)            |   [Memo-game](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/game/memo-game)                                    | [Memo-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md)
+[Custom Audio Player](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/Audio-player/)     |   [Audio player](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)            
+[Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/menu.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
+[Hangman](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/hangman/)                   |   [Hangman](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/hangman)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
+[Nonograms](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/nonograms/)                 |   [Nonograms](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/nonograms/nonograms)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)    
+[Translator](https://www.konopelko.com/)
 
 ---
 
