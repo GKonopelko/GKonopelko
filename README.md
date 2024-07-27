@@ -53,11 +53,12 @@ Here are some ideas to get you started:
 
  Project | Code | Description
 :----|:----|:----
-[Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
+[CV](https://gkonopelko.github.io/rsschool-cv) |[CV](https://github.com/GKonopelko/rsschool-cv/tree/rsschool-cv-html) | [CV](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md)
+[Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/menu.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 [Memo-game](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/memo-game/)            |   [Memo-game](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/game/memo-game)                                    | [Memo-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md)
 [Custom Audio Player](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/Audio-player/)     |   [Audio player](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)            
-[Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/menu.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 [Hangman](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/hangman/)                   |   [Hangman](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/hangman)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
+[Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
 [Nonograms](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/nonograms/)                 |   [Nonograms](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/nonograms/nonograms)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)    
 [Translator](https://www.konopelko.com/)
 
