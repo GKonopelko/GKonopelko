@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [Hangman](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/hangman/)                   |   [Hangman](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/hangman)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)
 [Library](https://gkonopelko.github.io/RSSchool2023Q2-Stage0/library/)|[Library](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/library-part3) |       [Library](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) 
 [Nonograms](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/nonograms/)                 |   [Nonograms](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/nonograms/nonograms)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)    
-[Translator](https://www.konopelko.com/)
+[Translator](https://www.konopelko.com/) |   [Translator](https://github.com/GKonopelko/interpreter)                 
 [Shelter](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/shelter/pages/main/)                 |   [Shelter](https://github.com/GKonopelko/RSSchool2023Q2-Stage0/tree/shelter-part3)                           | [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)  
 
 
