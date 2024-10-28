@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My Projects
+### Some of my Projects
 
  Project | Code | Description
 :----|:----|:----
