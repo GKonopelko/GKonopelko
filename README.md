@@ -91,9 +91,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=default&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-**codewars**
-<a href="https://www.codewars.com/users/rsschool_2e463e922d15f1ea">
-  <img src="https://www.codewars.com/users/rsschool_2e463e922d15f1ea/badges/large" height="24">
-</a>
 
-![Codewars](https://github.r2v.ch/codewars?user=rsschool_2e463e922d15f1ea&stroke=%23BB432C&theme=gradient_light)
+[![codewars](https://www.codewars.com/users/rsschool_2e463e922d15f1ea/badges/small)](https://www.codewars.com/users/rsschool_2e463e922d15f1ea)
