@@ -1,7 +1,12 @@
 
 
 <h1 align="center">
-Front-end Developer <br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>currently looking for a job </h1>
+Front-end Developer <br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
+font=Arial+Bold&weight=100&pause=10&vCenter=true&multiline=true&width=350&height=33&lines
+=currently looking for a job" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a>
+
+</h1>
 
 <!--
 **GKonopelko/GKonopelko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 I'm currently looking for a job in web development
 - 🌱 I’m result-oriented and opened to new knowledge
-- 🎉 I'm learning all the time 
+- 🎉 I'm learning all the time
 -->
-<!-- 
+<!--
 ### 🔭 About myself
 - 🌱 I’m result-oriented and opened to new knowledge
 
@@ -40,8 +45,8 @@ Here are some ideas to get you started:
 <img src="https://prettier.io/icon.png"  title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
 <!-- <img src="https://icon-icons.com/icons2/3915/PNG/512/stylelint_logo_icon_249490.png"  title="Stylelint" alt="Stylelint" width="40" height="40"/>&nbsp; -->
 <img src="bem.svg" alt="BEM" title="BEM" width="40" height="40">
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
@@ -54,10 +59,10 @@ Here are some ideas to get you started:
  Project | Code | Description
 :----|:----|:----
 [CV](https://gkonopelko.github.io/rsschool-cv) |[CV](https://github.com/GKonopelko/rsschool-cv/tree/rsschool-cv-html) | [CV](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md)
-[Translator](https://www.konopelko.com/) |   [Translator](https://github.com/GKonopelko/interpreter)    
+[Translator](https://www.konopelko.com/) |   [Translator](https://github.com/GKonopelko/interpreter)
 [Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/index.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 [Memo-game](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/memo-game/index.html)            |   [Memo-game](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/game/memo-game)                                    | [Memo-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md)
-[Custom Audio Player](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/audio-player/)     |   [Audio player](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/audio-player/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)                          
+[Custom Audio Player](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/audio-player/)     |   [Audio player](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/audio-player/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)
 [Shelter](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/shelter/pages/main/)                 |   [Shelter](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/shelter/shelter)                           | [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
 
 <!-- [Nonograms](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/nonograms/)                 |   [Nonograms](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/nonograms/nonograms)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)     -->
@@ -75,14 +80,29 @@ Here are some ideas to get you started:
  <a href="mailto:grigori.konopelko@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
  </a>
- <!--
- <a href="www.linkedin.com/in/yuliya-karuk-1a1a14231/" target="_blank">
+ <a href="https://www.linkedin.com/in/grigori-konopelko-126115338/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
  </a>
- -->
+
 </div>
 
 ---
 
-   
+<h2>
+  🔥 My Stats
+</h2>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GKonopelko&theme=shadow-orange)](https://git.io/streak-stats)
+
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+**codewars**
+<a href="https://www.codewars.com/users/rsschool_2e463e922d15f1ea">
+  <img src="https://www.codewars.com/users/rsschool_2e463e922d15f1ea/badges/large" height="24">
+</a>
+
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_2e463e922d15f1ea&stroke=%23BB432C&theme=gradient_light)
