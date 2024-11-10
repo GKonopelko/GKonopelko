@@ -2,7 +2,7 @@
 
 <h1 align="center">
 Front-end Developer <br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Bold&weight=100&pause=10&vCenter=true&multiline=true&width=350&height=33&lines=currently+looking+for+a+job" alt="currently looking for a job"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Bold&weight=100&pause=10&vCenter=true&multiline=true&width=350&height=39&lines=currently+looking+for+a+job" alt="currently looking for a job"></a>
 <p></p>
 </h1>
 
