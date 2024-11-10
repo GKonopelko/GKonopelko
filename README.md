@@ -86,17 +86,10 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>
-  🔥 My Stats
-</h2>
+### My Stats :
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKonopelko&theme=default)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GKonopelko&theme=shadow-orange)](https://git.io/streak-stats)
-
-----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-
-----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=default&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 **codewars**
 <a href="https://www.codewars.com/users/rsschool_2e463e922d15f1ea">
