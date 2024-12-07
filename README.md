@@ -93,3 +93,6 @@ Here are some ideas to get you started:
 
 
 [![codewars](https://www.codewars.com/users/rsschool_2e463e922d15f1ea/badges/small)](https://www.codewars.com/users/rsschool_2e463e922d15f1ea)
+
+
+![](https://komarev.com/ghpvc/?username=GKonopelko)
