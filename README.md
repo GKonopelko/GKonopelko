@@ -30,25 +30,24 @@ Here are some ideas to get you started:
 --- -->
 ### Languages and Tools:
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="SASS " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 <img src="https://prettier.io/icon.png"  title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
-<!-- <img src="https://icon-icons.com/icons2/3915/PNG/512/stylelint_logo_icon_249490.png"  title="Stylelint" alt="Stylelint" width="40" height="40"/>&nbsp; -->
-<img src="bem.svg" alt="BEM" title="BEM" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
+<img src="https://icon-icons.com/icons2/3915/PNG/512/stylelint_logo_icon_249490.png"  title="Stylelint" alt="Stylelint" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-</p> -->
+</p>
 
 ---
 
@@ -56,12 +55,17 @@ Here are some ideas to get you started:
 
  Project | Code | Description
 :----|:----|:----
-[CV](https://gkonopelko.github.io/rsschool-cv) |[CV](https://github.com/GKonopelko/rsschool-cv/tree/rsschool-cv-html) | [CV](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md)
-[Translator](https://www.konopelko.com/) |   [Translator](https://github.com/GKonopelko/interpreter)
-[Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/index.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
+[CV](https://gkonopelko.github.io/rsschool-cv) | |
+[Translator](https://www.konopelko.com/) | |
+[eCommerce](https://space-real-estate.netlify.app/)                 |   [eCommerce](https://github.com/GKonopelko/eCommerce-Application/tree/develop)                           | [eCommerce](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)
+[Christmas Shop](https://rolling-scopes-school.github.io/gkonopelko-JSFE2024Q4/christmas-shop/html/index.html)    | | [Christmas Shop](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/christmas-shop/christmas-shop.md)
+
+
+
+
+<!-- [Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/index.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 [Memo-game](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/memo-game/index.html)            |   [Memo-game](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/game/memo-game)                                    | [Memo-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md)
-[Custom Audio Player](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/audio-player/)     |   [Audio player](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/audio-player/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)
-[Shelter](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/shelter/pages/main/)                 |   [Shelter](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/shelter/shelter)                           | [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
+[Custom Audio Player](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/audio-player/)     |   [Audio player](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/audio-player/audio-player)                     | [Audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md) -->
 
 <!-- [Nonograms](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/nonograms/)                 |   [Nonograms](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/nonograms/nonograms)                           | [Nonograms](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)     -->
 <!-- [Hangman](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/hangman/)                   |   [Hangman](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/tree/hangman)                               | [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman) -->
@@ -88,9 +92,8 @@ Here are some ideas to get you started:
 
 ### My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKonopelko&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=default&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKonopelko&theme=default&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![codewars](https://www.codewars.com/users/rsschool_2e463e922d15f1ea/badges/small)](https://www.codewars.com/users/rsschool_2e463e922d15f1ea)
 
