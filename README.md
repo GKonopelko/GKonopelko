@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
@@ -55,13 +56,11 @@ Here are some ideas to get you started:
 
  Project | Code | Description
 :----|:----|:----
-[CV](https://gkonopelko.github.io/rsschool-cv) | |
-[Translator](https://www.konopelko.com/) | |
 [eCommerce](https://space-real-estate.netlify.app/)                 |   [eCommerce](https://github.com/GKonopelko/eCommerce-Application/tree/develop)                           | [eCommerce](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)
 [Christmas Shop](https://rolling-scopes-school.github.io/gkonopelko-JSFE2024Q4/christmas-shop/html/index.html)    | | [Christmas Shop](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/christmas-shop/christmas-shop.md)
+[Translator](https://www.konopelko.com/) | |
 
-
-
+<!-- [CV](https://gkonopelko.github.io/rsschool-cv) | | -->
 
 <!-- [Coffee House](https://gkonopelko.github.io/gkonopelko-JSFE2023Q4/coffee-house/index.html)              |   [Coffee House](https://github.com/GKonopelko/gkonopelko-JSFE2023Q4/blob/coffee-house-week3/coffee-house/index.html)                     | [Coffee House](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
 [Memo-game](https://gkonopelko.github.io/JSFEPRESCHOOL2023Q2/memo-game/index.html)            |   [Memo-game](https://github.com/GKonopelko/JSFEPRESCHOOL2023Q2/tree/game/memo-game)                                    | [Memo-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md)
