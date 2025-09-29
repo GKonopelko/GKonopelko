@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 --- -->
 ### Languages and Tools:
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -54,11 +55,12 @@ Here are some ideas to get you started:
 
 ### Some of my Projects
 
- Project | Code | Description
-:----|:----|:----
-[eCommerce](https://space-real-estate.netlify.app/)                 |   [eCommerce](https://github.com/GKonopelko/eCommerce-Application/tree/develop)                           | [eCommerce](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)
-[Christmas Shop](https://rolling-scopes-school.github.io/gkonopelko-JSFE2024Q4/christmas-shop/html/index.html)    | | [Christmas Shop](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/christmas-shop/christmas-shop.md)
-[Translator](https://www.konopelko.com/) | |
+ Project | Code | Description | Technologies & Focus
+:----|:----|:---- |:----
+[REST Client](https://spbrest.netlify.app/)                 |   [develop](https://github.com/GKonopelko/rest-client-app/tree/develop)                           | [PR](https://github.com/GKonopelko/rest-client-app/pull/102)  | Next.js (App Router), React, TypeScript, Ant Design, Internationalization (i18n), Firebase, ESLint, Prettier, Vitest, Husky, SSR, Redux
+eCommerce                |   [develop](https://github.com/GKonopelko/eCommerce-Application/tree/develop)                           | [Task](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)  | TypeScript, ESLint, Prettier, Vitest, Husky, SPA, Integration with CommerceTools, API client
+[Christmas Shop](https://rolling-scopes-school.github.io/gkonopelko-JSFE2024Q4/christmas-shop/html/index.html)    | | [Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/christmas-shop/christmas-shop.md) | JS, CSS, Semantic responsive web design, PixelPerfect, Figma
+[Translator](https://www.konopelko.com/) | | Fast Loading and SEO | Semantic HTML5, CSS3, JavaScript, Responsive Design, Multilingual SEO, Schema.org, Accessibility, Open Graph, Local Business SEO, Performance, Unique content creation, Meta tags optimization, Social Media Integration
 
 <!-- [CV](https://gkonopelko.github.io/rsschool-cv) | | -->
 
